@@ -1,0 +1,11 @@
+EventFlow je moderní aplikace pro milovníky tance a kultury. Objevuj události podle lokace, kategorie nebo data. Přidej si oblíbené eventy, filtruj nabídky, a sdílej zážitky s ostatními!
+
+Funkce:
+• Přihlášení/registrace
+• Prohlížení eventů s mapou
+• Filtrování podle lokace, data a kategorie
+• Přidání eventu do oblíbených
+• Vytváření vlastních eventů
+• Podpora pro více jazyků
+
+Ať už jsi tanečník, organizátor nebo nadšený návštěvník – s EventFlow ti žádná událost neuteče.
